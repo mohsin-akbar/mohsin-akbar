@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohsin Nazir</h1>
 <h3 align="center">I love to create beautiful and efficient Full Stack Applications & websites</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-akbar" alt="mohsin-akbar" /></a> </p>
+
 
 - 🔭 I’m currently working on [Used Cars Model](https://github.com/mohsin-akbar/Used-Cars-CRM/tree/master)
 
